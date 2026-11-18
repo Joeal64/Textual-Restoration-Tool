@@ -1,0 +1,13 @@
+name,detected,restoration_applied,unchanged
+dibco2009/H02,True,True,False
+dibco2009/H03,True,True,False
+hdibco2010/H05,True,True,False
+hdibco2014/H01,True,True,False
+hdibco2014/H02,True,True,False
+hdibco2014/H07,True,True,False
+hdibco2014/H08,True,True,False
+hdibco2014/H09,True,True,False
+hdibco2014/H10,True,True,False
+photo_15_92,True,True,False
+photo_51_68,False,False,True
+scanned_page,True,True,False

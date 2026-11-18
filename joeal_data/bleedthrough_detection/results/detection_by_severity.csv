@@ -1,0 +1,10 @@
+method,severity,n,flagged,correct,mean_score
+tone,significant,6,6,6,0.10135391843010554
+tone,subtle,3,3,3,0.037057683469294576
+tone,none,3,3,0,0.1209187142546242
+components,significant,6,6,6,1.4815184439399793
+components,subtle,3,3,3,0.44939780946602603
+components,none,3,1,2,0.1532339316577275
+edges,significant,6,6,6,1.192501333369117
+edges,subtle,3,3,3,0.32121345185375993
+edges,none,3,2,1,0.11429239236601861

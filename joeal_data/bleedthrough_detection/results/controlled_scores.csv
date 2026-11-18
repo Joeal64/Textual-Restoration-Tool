@@ -1,0 +1,22 @@
+name,source,severity,kind,expected,tone_score,tone_detected,components_score,components_detected,edges_score,edges_detected,ours_F,ghost_evidence_recall
+dibco2009/H02 · synthetic none,dibco2009/H02,none,controlled ghost,False,0.821246490172483,True,0.14184662950297466,False,0.14184662950297466,False,99.70222078714167,
+dibco2009/H02 · synthetic subtle,dibco2009/H02,subtle,controlled ghost,True,0.8212444845567589,True,0.21638301851505518,True,0.21337887677568615,True,99.78132281770927,0.06661236837512363
+dibco2009/H02 · synthetic significant,dibco2009/H02,significant,controlled ghost,True,0.8221710790212595,True,0.9220073966574599,True,0.7782710721075706,True,99.76346629394688,0.631537611263017
+dibco2009/H02 · blur only,dibco2009/H02,none,blur only,False,0.82323204973927,True,0.09255603298107072,True,0.08732317681023019,True,85.73808679018249,
+dibco2009/H02 · faint text only,dibco2009/H02,none,faint text only,False,0.7874568792619334,True,0.0,False,0.0,False,99.69142447075708,
+dibco2009/H02 · lighting only,dibco2009/H02,none,lighting only,False,0.8265894504612916,True,0.00032754667540124465,False,0.0003177776365210021,False,99.7705435250251,
+dibco2009/H02 · stain only,dibco2009/H02,none,stain only,False,0.8179793421580425,True,0.14014318468953255,False,0.14014318468953255,False,99.70222078714167,
+hdibco2014/H01 · synthetic none,hdibco2014/H01,none,controlled ghost,False,0.023687759336099585,True,0.0,False,0.0,False,99.43214163725379,
+hdibco2014/H01 · synthetic subtle,hdibco2014/H01,subtle,controlled ghost,True,0.02363762102351314,True,0.0,False,0.0,False,99.79579971355237,0.0
+hdibco2014/H01 · synthetic significant,hdibco2014/H01,significant,controlled ghost,True,0.07562413554633472,True,0.8561555769848923,True,0.7013864179343936,True,99.78518712824258,0.5870719011729576
+hdibco2014/H01 · blur only,hdibco2014/H01,none,blur only,False,0.05048582295988935,True,0.0005162779397473275,False,0.00016565872796657749,False,78.50419485942078,
+hdibco2014/H01 · faint text only,hdibco2014/H01,none,faint text only,False,0.022029737206085753,True,0.0,False,0.0,False,99.79579971355237,
+hdibco2014/H01 · lighting only,hdibco2014/H01,none,lighting only,False,0.023551175656984787,True,0.0,False,0.0,False,99.79579971355237,
+hdibco2014/H01 · stain only,hdibco2014/H01,none,stain only,False,0.02360650069156293,True,0.0,False,0.0,False,99.43214163725379,
+hdibco2014/H08 · synthetic none,hdibco2014/H08,none,controlled ghost,False,0.6664083139083139,True,0.0031440608690184242,False,0.0031440608690184242,False,99.345046522986,
+hdibco2014/H08 · synthetic subtle,hdibco2014/H08,subtle,controlled ghost,True,0.6669327894327894,True,0.22724415388483782,True,0.2154548373198071,True,99.35764997558319,0.16335861243151056
+hdibco2014/H08 · synthetic significant,hdibco2014/H08,significant,controlled ghost,True,0.03886752136752137,True,0.9265838595517313,True,0.7550963867057646,True,99.59176539618731,0.6177836641387568
+hdibco2014/H08 · blur only,hdibco2014/H08,none,blur only,False,0.025586635586635587,True,0.04111683295783714,False,0.014334354573144373,False,81.95231289649286,
+hdibco2014/H08 · faint text only,hdibco2014/H08,none,faint text only,False,0.011330613830613831,True,0.0,False,0.0,False,99.53879035584386,
+hdibco2014/H08 · lighting only,hdibco2014/H08,none,lighting only,False,0.6422280497280497,True,0.015506309247284826,False,0.01543969573617188,False,99.58271907248694,
+hdibco2014/H08 · stain only,hdibco2014/H08,none,stain only,False,0.6372125097125098,True,0.0,False,0.0,False,99.37654923758731,

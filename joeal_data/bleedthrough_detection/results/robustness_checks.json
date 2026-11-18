@@ -1,0 +1,52 @@
+[
+  {
+    "case": "white",
+    "passed": true,
+    "warnings": 0
+  },
+  {
+    "case": "black",
+    "passed": true,
+    "warnings": 0
+  },
+  {
+    "case": "identical grey and replicated BGR",
+    "passed": true,
+    "warnings": 0
+  },
+  {
+    "case": "missing",
+    "passed": true,
+    "warnings": 0
+  },
+  {
+    "case": "empty",
+    "passed": true,
+    "warnings": 0
+  },
+  {
+    "case": "tiny",
+    "passed": true,
+    "warnings": 0
+  },
+  {
+    "case": "float",
+    "passed": true,
+    "warnings": 0
+  },
+  {
+    "case": "all 33 inputs detect with restoration functions forbidden",
+    "passed": true,
+    "warnings": 0
+  },
+  {
+    "case": "real routes call restoration only after positive decision; inputs preserved",
+    "passed": true,
+    "warnings": 0
+  },
+  {
+    "case": "forced positive and negative: detection precedes conditional restoration",
+    "passed": true,
+    "warnings": 0
+  }
+]

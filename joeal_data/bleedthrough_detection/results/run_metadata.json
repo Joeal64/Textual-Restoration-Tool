@@ -1,0 +1,30 @@
+{
+  "versions": {
+    "python": "3.12.14",
+    "opencv": "5.0.0",
+    "numpy": "2.5.3",
+    "skimage": "0.26.0"
+  },
+  "thresholds": {
+    "tone": 0.01,
+    "components": 0.08,
+    "edges": 0.04
+  },
+  "restoration_params": {
+    "close_size": 31,
+    "median_size": 21,
+    "min_speck": 30,
+    "canny": [
+      60,
+      150
+    ],
+    "min_edge_ratio": 0.08
+  },
+  "label_status": "provisional visual",
+  "real_documents": 12,
+  "real_source_groups": 5,
+  "synthetic_examples": 21,
+  "detector_uses_restoration": false,
+  "negative_route": "original pixels unchanged",
+  "routed_gt_evaluation": "plain Otsu conversion for scoring unchanged negative scan only"
+}

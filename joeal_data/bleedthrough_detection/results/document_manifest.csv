@@ -1,0 +1,13 @@
+name,severity,group,note,image,gt,provenance,label_basis
+dibco2009/H02,significant,dibco2009,dense ghost lines below the front-side writing,joeal_data/dibco2009/images/H02.png,joeal_data/dibco2009/gt/H02_gt.png,existing DIBCO project data,visual provisional
+dibco2009/H03,significant,dibco2009,large pale ghost strokes between the dark words,joeal_data/dibco2009/images/H03.png,joeal_data/dibco2009/gt/H03_gt.png,existing DIBCO project data,visual provisional
+hdibco2010/H05,significant,hdibco2010,ghost lines interleaved with front-side handwriting,joeal_data/hdibco2010/images/H05.png,joeal_data/hdibco2010/gt/H05_gt.png,existing DIBCO project data,visual provisional
+hdibco2014/H01,subtle,hdibco2014,faint ghost strokes between foreground lines,joeal_data/hdibco2014/images/H01.png,joeal_data/hdibco2014/gt/H01_gt.png,existing DIBCO project data,visual provisional
+hdibco2014/H02,subtle,hdibco2014,faint background writing; low-contrast foreground is a confounder,joeal_data/hdibco2014/images/H02.png,joeal_data/hdibco2014/gt/H02_gt.png,existing DIBCO project data,visual provisional
+hdibco2014/H07,significant,hdibco2014,visible background writing across the crop,joeal_data/hdibco2014/images/H07.png,joeal_data/hdibco2014/gt/H07_gt.png,existing DIBCO project data,visual provisional
+hdibco2014/H08,subtle,hdibco2014,pale ghost text around the foreground block,joeal_data/hdibco2014/images/H08.png,joeal_data/hdibco2014/gt/H08_gt.png,existing DIBCO project data,visual provisional
+hdibco2014/H09,significant,hdibco2014,visible ghost strokes between and under foreground lines,joeal_data/hdibco2014/images/H09.png,joeal_data/hdibco2014/gt/H09_gt.png,existing DIBCO project data,visual provisional
+hdibco2014/H10,significant,hdibco2014,visible interleaved ghost writing,joeal_data/hdibco2014/images/H10.png,joeal_data/hdibco2014/gt/H10_gt.png,existing DIBCO project data,visual provisional
+photo_15_92,none,same_printed_page,no visible ghost writing; blur and lighting,joeal_data/bleedthrough_detection/inputs/15_92.png,,local assignment photograph,visual: no visible bleed; no verso evidence
+photo_51_68,none,same_printed_page,same page as 15_92; lighting and mild blur,joeal_data/bleedthrough_detection/inputs/51_68.png,,local assignment photograph,visual: no visible bleed; no verso evidence
+scanned_page,none,skimage_page,no visible ghost writing; uneven illumination,joeal_data/bleedthrough_detection/inputs/skimage_page.png,,skimage.data.page(),visual: no visible bleed; no verso evidence
